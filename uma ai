@@ -1,0 +1,259 @@
+#EXTM3U 
+#EXTINF:1 group-title="Documentarios",
+#EXTSIZE: Big
+
+
+#EXTINF:-2 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Documentarios",Discovery Channel 
+http://23.237.132.90//DiscoveryChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Documentarios",Discovery Channel (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.227.45/discoverychannel_af3e1334_5b386164509633eba604443a704c31dddd2f04d0/480p/chunklist.m3u8
+
+
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Documentarios",Animal Planet
+http://23.237.132.90:8080//Animal-Planet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Documentarios",Animal Planet (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.227.45/animalplanet_e114c448_97f3731743fa28a8b25ef3a5ba84b3b1d7c4e321/480p/chunklist.m3u8
+
+
+
+#EXTINF:-4 tvg-logo="https://img2.gratispng.com/20180802/fbb/kisspng-logo-product-design-brand-font-5b63370d263916.9433191215332288131566.jpg" group-title="Documentarios",Investigação Discovery
+http://edge.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_5e0f0d2bb440419b04f0a02dc366bae4227ce440.m3u8
+
+
+#EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1200px-Discovery_Home_%26_Health_Asia.svg.png" group-title="Documentarios",Discovery Home & Health
+http://edge.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_b3d44125ce1251fd61a2d44d371b16e34faf6d4c.m3u8
+
+
+
+################ Filmes & Series ################
+#EXTINF:2 group-title="Filmes & Series",
+#EXTSIZE: Big
+
+ ################# Canais Telecine #################
+ 
+#EXTINF:7 tvg-logo="https://i.pinimg.com/originals/85/a3/11/85a311c2ab2c02a0be5ff73698183758.jpg" group-title="Filmes & Series",Telecine Premium
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_34b2315648cd926bc8c1da11a54e815f5c371245/480p/chunklist.m3u8
+
+
+
+
+#EXTINF:2 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg" group-title="Filmes & Series",Telecine Pipoca
+http://54.39.134.28:8001//TelecinePipoca/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:2 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg" group-title="Filmes & Series",Telecine Pipoca HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_0c0619b573177ec6fa766416f828286b96d36b6e.m3u8
+
+
+
+#EXTINF:3 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Series",Telecine Action
+http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:3 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Series",Telecine Action HD
+http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:4 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="Filmes & Series",Telecine Fun
+http://edge.aovivo.club/hls/s:155.138.227.45/telecinefun_ae1e7198_fa337fc54ea0173500b9b25c08de88810d95da1a/410p/chunklist.m3u8
+
+
+
+#EXTINF:4 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="Filmes & Series",Telecine Fun (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.227.45/telecinefun_ae1e7198_fa337fc54ea0173500b9b25c08de88810d95da1a/410p/chunklist.m3u8
+
+
+
+#EXTINF:5 tvg-logo="https://www.blueletro.com.br/media/grade-de-canais/515.jpg" group-title="Filmes & Series",Telecine Touch
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinetouch_74cbd2c2_6802c9087ca10e885269303b0ef3ede9e3303946/480p/chunklist.m3u8
+
+
+#EXTINF:5 tvg-logo="https://www.blueletro.com.br/media/grade-de-canais/515.jpg" group-title="Filmes & Series",Telecine Touch (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinetouch_74cbd2c2_6802c9087ca10e885269303b0ef3ede9e3303946/480p/chunklist.m3u8
+
+
+#EXTINF:6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Telecine_Cult_2.png" group-title="Filmes & Series",Telecine Cult
+http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
+
+#EXTINF:6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Telecine_Cult_2.png" group-title="Filmes & Series",Telecine Cult (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.226.22/telecinecult_8d255e1e_65c61e4400e0f5157cea2aa88c1b7ec39d5ca918/410p/chunklist.m3u8
+
+
+
+#################Outros Canais de filmes e series#####################
+
+#EXTINF:7 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/Meg.jpg/revision/latest?cb=20130326035908" group-title="Filmes & Series",MegaPix
+http://167.114.210.177/MegapixHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:7 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/Meg.jpg/revision/latest?cb=20130326035908" group-title="Filmes & Series",MegaPix (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.227.45/megapix_a6f16ab4_443e674e164a56f8c543caff4e38620d88fb9e19/410p/chunklist.m3u8
+
+
+#EXTINF:9 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/08/novo-logo-cinemax.jpg" group-title="Filmes & Series",Cinemax
+http://23.237.36.66//Cinemax-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:9 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/08/novo-logo-cinemax.jpg" group-title="Filmes & Series",Cinemax (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.227.45/cinemax480p_22d200f8_9683ceb67745beeba21a1c521df4c90b8deb00d3/410p_490kbit/chunklist.m3u8
+
+
+#EXTINF:10 tvg-logo="https://assets.website-files.com/5af0435070b69bd997f828c6/5d3b1d4e454551f230dcc230_space.png" group-title="Filmes & Series",Space
+http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_c91a54d4c330d33b41ff55d50697435a60f42f9a/playlist.m3u8
+
+#EXTINF:10 tvg-logo="https://assets.website-files.com/5af0435070b69bd997f828c6/5d3b1d4e454551f230dcc230_space.png" group-title="Filmes & Series",Space (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_c91a54d4c330d33b41ff55d50697435a60f42f9a/playlist.m3u8
+
+
+#EXTINF:11 tvg-logo="https://i0.wp.com/www.jornadageek.com.br/wp-content/uploads/2017/06/FX-Logo-e1498322089191.jpg?zoom=2.625&resize=372%2C210&ssl=1" group-title="Filmes & Series",FX
+http://edge.aovivo.club/hls/s:155.138.226.22/fx_667be543_1eb95e95be80721da5ffcb21563eeb13092f0166/720p/chunklist.m3u8
+
+
+#EXTINF:12 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/ae_network_logo_0.png?itok=MuJbLsJN" group-title="Filmes & Series",A&E
+http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:12 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/ae_network_logo_0.png?itok=MuJbLsJN" group-title="Filmes & Series",A&E (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_4108af5f2cdae55bab1ef06f6d8a6b09ad716aea/playlist.m3u8
+
+
+#EXTINF:13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Filmes & Series",HBO Signature
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_7107c7759719d453c30698fc374e7c9c0dd82628.m3u8
+
+
+
+#EXTINF:14 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Filmes & Series",HBO Plus
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_fcd05357098bb1f6e1a1dc352c2acfe9aa97bdfc.m3u8
+
+
+#EXTINF:14 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Filmes & Series",HBO Plus (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_fcd05357098bb1f6e1a1dc352c2acfe9aa97bdfc.m3u8
+
+
+#EXTINF:15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Filmes & Series",HBO Family
+http://23.237.132.90//HBO-Family/tracks-v1a1/mono.m3u8
+
+#EXTINF:15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Filmes & Series",HBO Family
+http://23.237.132.90//HBO-Family/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:16 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Filmes & Series",HBO 2
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
+
+#EXTINF:16 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Filmes & Series",HBO 2 (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_405d12f52f598cdfb426d8af6a33ad66e406fb6b.m3u8
+
+
+#EXTINF:17 tvg-logo="https://2.bp.blogspot.com/-9vrXNWyrv2Y/W5rhc2mYwEI/AAAAAAAAGR4/otlOs8RwNhMQGOfAAD0AUpeliFaiNIc7wCLcBGAs/s1600/hbo.jpg" group-title="Filmes & Series",HBO
+http://hvod.imirun.net:8080/HBO-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:17 tvg-logo="https://2.bp.blogspot.com/-9vrXNWyrv2Y/W5rhc2mYwEI/AAAAAAAAGR4/otlOs8RwNhMQGOfAAD0AUpeliFaiNIc7wCLcBGAs/s1600/hbo.jpg" group-title="Filmes & Series",HBO (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_474d00059194c2600b532cfa48b475f62095c79b.m3u8
+
+
+#EXTINF:18 tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="Filmes & Series",Sony
+http://23.237.36.66/canalsony-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:18 tvg-logo="https://www.i-maxpr.com/i/tiago.alcantara@edelman.com/SONY_LOGO_CLEAN_SURFACE_VECTOR190605_162233.PNG" group-title="Filmes & Series",Sony (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.227.45/sony_06349be7_3828ef816d34aa93e64f4aa38dda1a9a816903fe/410p/chunklist.m3u8
+
+
+#EXTINF:21 tvg-logo="https://2.bp.blogspot.com/-4dKUi95ALEU/WVFDpGzPvhI/AAAAAAAA71A/yIKKaJtYnqkWuqbxuGEd_DYdsc7joVtIgCPcBGAYYCw/s1600/FOX%2BPremium%2B1.png" group-title="Filmes & Series",Fox Premium 1 HD
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:19 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Filmes & Series",Fox Premium 2 HD
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:7 tvg-logo="https://i.ytimg.com/vi/eA0wuQ5o8NE/maxresdefault.jpg" group-title="Filmes & Series",TNT
+http://hvod.imirun.net:8080/TNT-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:7 tvg-logo="https://i.ytimg.com/vi/eA0wuQ5o8NE/maxresdefault.jpg" group-title="Filmes & Series",TNT (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_a2d0d309e8b962c3b6102c17de30a9d6a5d655f2.m3u8
+
+
+#EXTINF:22 tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png" group-title="Filmes & Series",TNT Series
+http://54.39.134.28:8001//TNTSeries/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:22 tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png" group-title="Filmes & Series",TNT Series (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/tntseries_3bb18d9a_2e311e9ca51233d94da3ffe24055a2cd9bc81c68.m3u8
+
+
+#EXTINF:24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="Filmes & Series",Fox
+http://54.39.134.28:8001/FOX/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="Filmes & Series",Fox HD 
+http://54.39.134.28:8001/FOX/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:26 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="Filmes & Series",AMC
+http://54.39.134.28:8001/AMC-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:26 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="Filmes & Series",AMC (Opção 2)
+http://edge.aovivo.club/hls/s:155.138.226.22/amcbrasil_b7f5113f_6e5e395155f4796f70baa50c760c3fc6710c76ef/410p/chunklist.m3u8
+
+
+#EXTINF:27 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdT5ICUaMon1i9BEnDeONc-LEiO6Xj8OBrHmopoOvC2KZuZgSg" group-title="Filmes & Series",Max
+http://edge.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_c5df2aa582ae96b7625742d411c557db678c0ce7.m3u8
+
+
+#EXTINF:28 tvg-logo="http://antenaszucco.com.br/wp-content/uploads/MAX_UP.png" group-title="Filmes & Series",Max UP
+http://54.39.134.28:8001//MaxUpHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:28 tvg-logo="http://antenaszucco.com.br/wp-content/uploads/MAX_UP.png" group-title="Filmes & Series",Max UP (Opção 2)
+http://edge.aovivo.club/hls/s:95.216.15.44:81/maxup_ce09b127_b423ff4a7be8ce18c9c60929f312f2c063baef4d/playlist.m3u8
+
+
+#EXTINF:29 tvg-logo="http://4.bp.blogspot.com/-sJCt2-z3RNI/WpFuAe4jjtI/AAAAAAAAGoc/BGNS19ovatQu399EqM8Mr5YXk3VzXKLSACK4BGAYYCw/s1600/canal%2Bmax_prime.png" group-title="Filmes & Series",Max Prime
+http://54.39.134.28:8001//MaxPrimeHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:29 tvg-logo="http://4.bp.blogspot.com/-sJCt2-z3RNI/WpFuAe4jjtI/AAAAAAAAGoc/BGNS19ovatQu399EqM8Mr5YXk3VzXKLSACK4BGAYYCw/s1600/canal%2Bmax_prime.png" group-title="Filmes & Series",Max Prime (Opção 2)
+http://54.39.134.28:8001//MaxPrimeHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:30 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="Filmes & Series",AXN
+http://23.237.36.66/AXN/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:31 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/paramount-channel.jpg" group-title="Filmes & Series",Paramount Channel
+http://edge.aovivo.club/hls/s:95.216.15.44:81/paramountchannel_efa260ad_f55fc8e9ad9dafedabb1e814f0686b75b3cd591d.m3u8
+
+
+#EXTINF:32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTPxhMArEEH4UIBm5uNSoZ_6oMZwLx8sFAFKZ8lLdx_ot_JGI" group-title="Filmes & Series",TCM
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:33 tvg-logo="https://i.pinimg.com/originals/c3/3c/9d/c33c9de1c24b02a091fa7af889025e1f.png" group-title="Filmes & Series",Universal Channel
+http://hvod.imirun.net:8080/UniversalChannelHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="Filmes & Series",Studio Universal
+http://hvod.imirun.net:8080/UniversalChannelHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:35 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Warner_Channel.svg" group-title="Filmes & Series",Warner Channel
+http://edge.aovivo.club/hls/s:45.32.217.66/warnerchannel_0a57cb53_19d012b47d0d2ea1ca08ec37836d3a7e280c8eb9/410p/chunklist.m3u8
+
+
+################Novelas e Outras Bobagens###################
+#EXTINF:8 group-title="Novelas",
+#EXTSIZE: Big
+
+#EXTINF:35 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20190227170808" group-title="Novelas e Outras Bobagens",Viva
+http://23.237.132.90//VIVA/tracks-v1a1/mono.m3u8
+http://23.237.132.90//VIVA/tracks-v1a1/mono.m3u8
+
+
+################Infantil################
+#EXTINF:9 group-title="Infantil",
+#EXTSIZE: Big
+
+#EXTINF:36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantil",CartoonNetwork
+http://23.237.36.66//CartoonNetwork/tracks-v1a1/mono.m3u8
