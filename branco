@@ -1,10 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:0, 1
+#EXTINF:0, bis
 http://play.starbr.top/live/prigym/gym54321/1104.m3u8
 
-#EXTINF:0, 4
+#EXTINF:0,A&E FULL HD
+http://play.starbr.top/live/prigym/gym54321/46898.m3u8
+
+#EXTINF:0,4
 http://cdnfe3.azureedge.net/RCServer09/ondemand/NRTOSHPDUBEP001.mp4?attachment=true
 
 #EXTINF:0, 2
