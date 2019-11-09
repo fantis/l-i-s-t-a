@@ -1,20 +1,10 @@
-#EXTM3U
 
+#EXTM3U size="big"
 
-#EXTINF:0, bis
-http://play.starbr.top/live/prigym/gym54321/1104.m3u8
+#EXTINF:0 type="playlist" tvg-logo="",Manifest group-title="Manifest",MnFT
+#EXTBG:https://i0.wp.com/freakpop.com.br/wp-content/uploads/2019/10/manifest-globoplay.jpg?fit=900%2C560&ssl=1
+#EXTINF:0 type="video" group-title="Manifest",MnFT T1|EP1
+https://slave2.sfplayer.net/drive//hls/0f4c26c87bc07aad0a793e91821d1398/0f4c26c87bc07aad0a793e91821d1398.m3u8
+#EXTINF:0 type="video" group-title="Manifest",MnFT T1|EP2
+https://slave2.sfplayer.net/drive//hls/18301527f06b14f3e9dfb6021bbbb31a/18301527f06b14f3e9dfb6021bbbb31a.m3u8
 
-#EXTINF:0,A&E FULL HD
-http://play.starbr.top/live/prigym/gym54321/46898.m3u8
-
-#EXTINF:0, DISNEY CHANNEL HD 1
-http://play.starbr.top/live/prigym/gym54321/38438.m3u8
-
-#EXTINF:0,4
-http://cdnfe3.azureedge.net/RCServer09/ondemand/NRTOSHPDUBEP001.mp4?attachment=true
-
-#EXTINF:0, 2
-http://cdnfe3.azureedge.net/RCServer11/ondemand/NRTOSHPEP498.mp4?attachment=true
-
-#EXTINF:0, 3
-http://cdnfe3.azureedge.net/RCServer11/ondemand/NRTOSHPDUBEP498.mp4?attachment=true
