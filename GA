@@ -1,5 +1,4 @@
-#EXTM3U size="Medium"
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/ganatomy1.jpg" group-title="Greys Anatomy", 1T-E01 
 https://d16mczbqy7j9rw.cloudfront.net/RCServer01/videos/GRATT01EP01.mp4?attachment=trueGRATT01EP01
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/ganatomy1.jpg" group-title="Greys Anatomy", 1T-E02 
